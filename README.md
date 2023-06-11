@@ -17,4 +17,4 @@ Both development servers for front and back end must be running on the machine i
 ## Viewing sample of application
 
 To view demo of this application, go to:
-`https://www.linkedin.com/in/ari-denary/`
+`https://www.linkedin.com/in/ari-denary/#projects`

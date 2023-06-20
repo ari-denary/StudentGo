@@ -5,9 +5,6 @@
 <!-- PROJECT Demo/Bug/Feature links -->
 <div align="center">
   <p align="center">
-    <br />
-    <a href="https://github.com/ari-denary/StudentGo"><strong>Explore the docs »</strong></a>
-    <br />
     <a href="https://github.com/ari-denary/StudentGo">View Demo</a>
     ·
     <a href="https://github.com/ari-denary/StudentGo/issues">Report Bug</a>
@@ -44,10 +41,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -100,9 +93,9 @@ Note: Both front and back end development servers must be running on the machine
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<div align="center" style="display: flex; gap: 20px;">
-<img src="./assets/studentGo-login.png" height="350px">
-<img src="./assets/studentGo-homepage.png" height="350px">
+<div style="display: flex; gap: 20px;">
+<img src="./assets/studentGo-login.png" height="400px">
+<img src="./assets/studentGo-homepage.png" height="400px">
 </div>
 
 <p align="right">(<a href="#StudentGo">back to top</a>)</p>
@@ -149,20 +142,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ari Denary - [adenary.dev@gmail.com](mailto:adenary.dev@gmail.com) - [LinkedIn][linkedin-url]
+Ari Denary - [adenary.dev@gmail.com](mailto:adenary.dev@gmail.com) - [LinkedIn](https://www.linkedin.com/in/ari-denary/)
 
 <p align="right">(<a href="#StudentGo">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Co-Creator: Huse Kivrak](https://github.com/huseKivrak)
+* Co-Creator: [Huse Kivrak](https://github.com/huseKivrak)
 
 <p align="right">(<a href="#StudentGo">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -174,9 +164,7 @@ Ari Denary - [adenary.dev@gmail.com](mailto:adenary.dev@gmail.com) - [LinkedIn][
 [stars-url]: https://github.com/ari-denary/StudentGo/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ari-denary/StudentGo.svg?style=for-the-badge
 [issues-url]: https://github.com/ari-denary/StudentGo/issues
-[license-shield]: https://img.shields.io/github/license/ari-denary/StudentGo.svg?style=for-the-badge
-[license-url]: https://github.com/ari-denary/StudentGo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[license-shield]: https://img.shields.io/badge/License-MIT-41acc0?style=for-the-badge&logo=MIT&logoColor=white
+[license-url]: https://github.com/ari-denary/StudentGo/blob/main/LICENSE.txt
 [React-Native.js]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-Native-url]: https://reactnative.dev/
